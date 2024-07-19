@@ -14,3 +14,9 @@ An interactive Tic-Tac-Toe game application where two players can compete on a 3
 - [x] Check for a draw condition when the board is full and no player has won.
 - [x] Keep the game running until a win or draw condition is met.
 - [x] Offer players the option to restart the game or exit after a game ends.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://raw.githubusercontent.com/ElsieKemumu/master/tic%20tac%20toe%20gif.mp4' title='Video Walkthrough' width='300' height='300' alt='Video Walkthrough'/>
