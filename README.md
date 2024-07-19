@@ -19,4 +19,4 @@ An interactive Tic-Tac-Toe game application where two players can compete on a 3
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://raw.githubusercontent.com/ElsieKemumu/blob/master/game.gif' title='Video Walkthrough' width='300' height='300' alt='Video Walkthrough'/>
+<img src='https://raw.githubusercontent.com/ElsieKemumu/tic-tac-toe/master/game.gif' title='Video Walkthrough' width='300' height='300' alt='Video Walkthrough'/>
